@@ -17,7 +17,6 @@ Este repositório contém o código fonte de uma biblioteca virtual desenvolvida
   * **ErroUpload:** Classe para tratamento de erros durante o upload de arquivos.
   * **ItemApplication:** Classe principal da aplicação.
   * **FileDownloadService:** Permite o download de arquivos da biblioteca.
-  * **ItemResource:** Representa um recurso de item individual.
   * **VisualizarResource:** Permite a visualização detalhada de um item.
   * **UploadResource:** Controla as operações de upload.
   * **SalvarAdicionadoResource:** Salva um novo item adicionado à biblioteca.
